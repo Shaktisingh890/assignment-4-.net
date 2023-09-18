@@ -65,7 +65,8 @@ namespace assignment4
             //Temp.main(new String[] { });
             // Season_enum.main(new string[] { });
             // Shape_Area.main(new string[] { });
-            enum_permission.main(new string[] { });
+            //enum_permission.main(new string[] { });
+           
             Console.ReadLine();
            
         }
